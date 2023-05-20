@@ -1,0 +1,1 @@
+This project will employ the basics of HTML, and will demonstrate basic proficiency as well as Git usage.
